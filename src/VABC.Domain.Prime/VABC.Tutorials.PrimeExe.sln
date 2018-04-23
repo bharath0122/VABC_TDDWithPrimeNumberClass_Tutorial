@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VABC.Tutorials.PrimeExe", "..\VABC.Tutorials.PrimeExe\VABC.Tutorials.PrimeExe.csproj", "{EE66DBC0-5D14-4186-9CC3-BB71A42727BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE66DBC0-5D14-4186-9CC3-BB71A42727BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE66DBC0-5D14-4186-9CC3-BB71A42727BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE66DBC0-5D14-4186-9CC3-BB71A42727BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE66DBC0-5D14-4186-9CC3-BB71A42727BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF6274A-3F49-457A-966D-4F3D8926D925}
+	EndGlobalSection
+EndGlobal

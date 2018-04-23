@@ -1,0 +1,20 @@
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\bin\Debug\Myfirst App.exe.config
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\bin\Debug\Myfirst App.exe
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\bin\Debug\Myfirst App.pdb
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\bin\Debug\VABC.Domain.Prime.dll
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\bin\Debug\VABC.Domain.Prime.pdb
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\obj\Debug\VABC.Tutorials.PrimeExe.csprojResolveAssemblyReference.cache
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\obj\Debug\VABC.Tutorials.PrimeExe.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\obj\Debug\VABC.Tutorials.PrimeExe.csproj.CopyComplete
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\obj\Debug\Myfirst App.exe
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\obj\Debug\Myfirst App.pdb
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\bin\Debug\VABC.Tutorials.Prime.exe.config
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\bin\Debug\VABC.Tutorials.Prime.exe
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\bin\Debug\VABC.Tutorials.Prime.pdb
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\bin\Debug\VABC.Domain.Prime.dll
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\bin\Debug\VABC.Domain.Prime.pdb
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\obj\Debug\VABC.Tutorials.PrimeExe.csprojResolveAssemblyReference.cache
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\obj\Debug\VABC.Tutorials.PrimeExe.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\obj\Debug\VABC.Tutorials.PrimeExe.csproj.CopyComplete
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\obj\Debug\VABC.Tutorials.Prime.exe
+C:\Users\Personal\source\repos\src\VABC.Tutorials.PrimeExe\obj\Debug\VABC.Tutorials.Prime.pdb

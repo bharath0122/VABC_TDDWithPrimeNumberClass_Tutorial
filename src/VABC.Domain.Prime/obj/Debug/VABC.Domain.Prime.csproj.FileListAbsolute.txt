@@ -1,0 +1,6 @@
+C:\Users\Personal\source\repos\Myfirst App\VABC.Domain.Prime\bin\Debug\VABC.Domain.Prime.dll
+C:\Users\Personal\source\repos\Myfirst App\VABC.Domain.Prime\bin\Debug\VABC.Domain.Prime.pdb
+C:\Users\Personal\source\repos\Myfirst App\VABC.Domain.Prime\obj\Debug\VABC.Domain.Prime.csprojResolveAssemblyReference.cache
+C:\Users\Personal\source\repos\Myfirst App\VABC.Domain.Prime\obj\Debug\VABC.Domain.Prime.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\Myfirst App\VABC.Domain.Prime\obj\Debug\VABC.Domain.Prime.dll
+C:\Users\Personal\source\repos\Myfirst App\VABC.Domain.Prime\obj\Debug\VABC.Domain.Prime.pdb

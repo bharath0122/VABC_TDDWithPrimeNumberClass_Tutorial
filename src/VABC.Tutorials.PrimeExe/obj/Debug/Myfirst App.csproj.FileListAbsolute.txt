@@ -1,0 +1,7 @@
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\obj\Debug\Myfirst App.csprojResolveAssemblyReference.cache
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\obj\Debug\Myfirst App.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\bin\Debug\Myfirst App.exe.config
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\bin\Debug\Myfirst App.exe
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\bin\Debug\Myfirst App.pdb
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\obj\Debug\Myfirst App.exe
+C:\Users\Personal\source\repos\Myfirst App\Myfirst App\obj\Debug\Myfirst App.pdb
